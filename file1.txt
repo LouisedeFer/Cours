@@ -1,1 +1,2 @@
 Voici la premire ligne du fichier.
+Voici la seconde ligne du fichier.
